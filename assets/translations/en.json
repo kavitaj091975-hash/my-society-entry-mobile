@@ -1,0 +1,18 @@
+{
+  "app_title": "MySociety",
+  "step": "Step",
+  "next": "Next",
+  "back": "Back",
+  "done": "Done",
+  "skip": "Skip",
+  "close": "Close",
+  "welcome_to_mysociety": "Enhanced Security & Control",
+  "welcome_desc": "MySociety ensures only authorized individuals gain access, keeping your community secure and monitored 24/7",
+  "visitor_management": "Seamless Visitor Management",
+  "visitor_desc": "Approve or deny visitors in real-time. Generate digital pass codes for guests to enter without waiting at the gate",
+  "billing_management": "Automated Billing & Payments",
+  "billing_desc": "View maintenance dues, pay via UPI directly, and get instant digital receipts. No more waiting or hassle",
+  "welcome_text": "Welcome to MySociety!",
+  "select_language": "Select Language",
+  "language": "Language"
+}

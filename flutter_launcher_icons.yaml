@@ -1,0 +1,23 @@
+flutter_launcher_icons:
+  # Android configuration
+  android: true
+  ios: true
+  image_path: "assets/logo/mysociety_logo.png"
+  image_path_ios: "assets/logo/mysociety_logo.png"
+
+  # Android settings
+  android_adaptive_icon_background: "#2563EB"
+  android_adaptive_icon_foreground: "assets/logo/mysociety_logo.png"
+
+  # Adaptive icon only applies to Android 8.0+
+  # For older versions, standard icon is used
+  min_sdk_android: 21
+
+  # iOS settings
+  ios_settings:
+    fill: true
+
+  # Web/Desktop (optional)
+  web:
+    generate: true
+    image_path: "assets/logo/mysociety_logo.png"
